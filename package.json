@@ -1,0 +1,25 @@
+{
+  "name": "kitsune_repo",
+  "version": "1.0.0",
+  "description": "A collection of pre-built packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Kromis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkromis/kitsune_repo.git"
+  },
+  "keywords": [
+    "pkg"
+  ],
+  "bugs": {
+    "url": "https://github.com/mkromis/kitsune_repo/issues"
+  },
+  "homepage": "https://github.com/mkromis/kitsune_repo#readme",
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
+}
